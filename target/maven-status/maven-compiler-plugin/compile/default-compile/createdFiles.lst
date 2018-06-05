@@ -1,5 +1,10 @@
 com\qa\ExtentReportListner\ExtentReporterNG.class
 com\qa\pages\LoginPage.class
+com\qa\Listners\AnnotationTransformer.class
+com\qa\ExtentReports\ExtentManager.class
+com\qa\Listners\Retry.class
 com\qa\utils\WebEventListener.class
+com\qa\Listners\TestListener.class
 com\qa\utils\TestUtil.class
 com\qa\base\TestBase.class
+com\qa\ExtentReports\ExtentTestManager.class
